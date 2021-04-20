@@ -1,2 +1,4 @@
 1. Tomar clase DevOps
 2. Crear Repo en GitHub
+3. inicializar un repo local
+4. agregar archivos al repo local
