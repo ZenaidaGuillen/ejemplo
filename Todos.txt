@@ -1,0 +1,2 @@
+1. Tomar clase DevOps
+2. Crear Repo en GitHub
